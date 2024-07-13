@@ -20,3 +20,7 @@ This project aims to detect fraudulent credit card transactions using machine le
 - seaborn
 - scikit-learn
 - tkinter
+
+## GUI
+
+![image](https://github.com/user-attachments/assets/010ea15b-4b8e-47e7-a867-366a4729a017)
